@@ -7,7 +7,10 @@ We also spent time cleaning the data, fixing missing values, and preparing the d
 
 This project helped us put all the things we learned in our Machine Learning class into practice.
 
-A big thank you to my awesome team:
+A big thank you to our awesome team:
+
+- (Me) Makhabat Zhyrgalbekova
+
 - Jason Adika Tanuwijaya
 
 - Naima Dzhunushova
